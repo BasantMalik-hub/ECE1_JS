@@ -38,6 +38,6 @@ switch(grade){
      case 'B' : document.write("Pretty job<br/>");
      case 'C' : document.write("Passed<br/>");
       case 'D' : document.write("do better next time<br/>");
-       default : document.write("you can do it<br/>");
+       default : document.write("you can do<br/>");
         
 }
